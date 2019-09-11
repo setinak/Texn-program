@@ -1,0 +1,16 @@
+Наследование
+class B extends A {
+  ...
+}
+
+Полиморфизм
+public A {
+    void kek(int a);
+    void kek(float m);
+}
+
+Инкапсуляция
+public class A
+{
+    private double x;
+}
